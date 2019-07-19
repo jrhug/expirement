@@ -1,2 +1,2 @@
-# expirement
+# Expirement
 An test repo for experimentation
